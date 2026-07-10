@@ -5,7 +5,7 @@ first python repository
 
 A clean, single-library web application built in Python that dynamically scrapes e-commerce product pages to track pricing data and deliver live budgetary notifications directly on a visual dashboard. 
 
-Live Link: *[PASTE YOUR DEPLOYED STREAMLIT URL HERE]*
+Live Link: 
 
 ## ✨ Features
 - **Zero-API Web Scraping:** Extracts raw product metadata and localized price values seamlessly using structural HTML parsing.
