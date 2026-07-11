@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-.venv/
-venv/
-tracked_products.json
-.streamlit/secrets.toml
-.DS_Store
