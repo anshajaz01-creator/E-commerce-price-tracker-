@@ -1,7 +1,7 @@
 # E-commerce-price-tracker-
 first python repository 
 
-# 🛒 Live E-Commerce Price Tracker Web App
+# 🛒 Live E-Commerce Price Tracker Web
 
 A clean, single-library web application built in Python that dynamically scrapes e-commerce product pages to track pricing data and deliver live budgetary notifications directly on a visual dashboard. 
 
