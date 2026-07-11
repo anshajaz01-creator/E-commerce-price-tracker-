@@ -59,6 +59,3 @@ Streamlit's internal CSS class names can shift between versions, so the theme ta
 - Respect each site's `robots.txt` and terms of service when scraping.
 - This is a starter/reference implementation — for production use you'd want retry/backoff logic, per-domain selector overrides, and rate limiting.
 
-## Upgrading from an earlier version
-
-If you were using a previous version of this app, delete your existing `tracked_products.json` before running the updated `app.py` — the price-history timestamp format changed to support sale-timing estimates, and old entries won't be compatible.
